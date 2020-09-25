@@ -1,6 +1,13 @@
 body
 {
-    color: palevioletred;
-    text-align: center;
-    font-family: Arial;
+    color: royalblue;
+    text-align: left;
+    font-family: 'Trebuchet MS';
+}
+
+#post
+{
+    border: 5px solid black;
+    width: 20%;
+    margin: 100; 
 }
