@@ -1,5 +1,6 @@
 body
 {
+    
     color: royalblue;
     text-align: left;
     font-family: 'Trebuchet MS';
@@ -8,6 +9,14 @@ body
 #post
 {
     border: 5px solid black;
-    width: 20%;
-    margin: 100; 
+    width: auto;
+    margin: auto; 
+    text-shadow: black 0.5px 0.5px;
+}
+
+#container
+{
+    border: 1px solid blue;
+    width: auto;
+    margin: 1px;
 }
